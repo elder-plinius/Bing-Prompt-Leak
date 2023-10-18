@@ -1,4 +1,4 @@
-# BingSystemPrompt
+# Bing Prompt Leak
 
 A prompt leak technique to get Bing Chat's system prompt.
 
