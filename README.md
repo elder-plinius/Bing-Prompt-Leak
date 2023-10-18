@@ -1,8 +1,6 @@
-# Bing Prompt Leak
+# Bing Chat Prompt Leak
 
 ![Screenshot (126)](https://github.com/elder-plinius/Bing-Prompt-Leak/assets/133052465/d9c70568-d41d-4a89-92c7-936b9a8cf97d)
-
-Bing Chat's Prompt Leak Technique
 
 Set temperature to "more creative."
 
